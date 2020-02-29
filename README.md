@@ -17,3 +17,4 @@ I've redone a lot of the code from scratch. Notable changes:
 - Create a new map with its own folder. This will be your CTF map.
 - Once you have your map basics set up, you need to reference these CTF blueprints. Your game mode settings for your map should look like this: https://i.imgur.com/UINMvf5.png
 - In order for your map to be functional you need to place 2 FlagPedestal instances, each with the appropriate team assigned. This is where the team flag spawns. The FlagPedestal blueprint is in the NukeCTF folder.
+- If you release your map on mod.io then you need to add this mod as a dependency: https://mordhau.mod.io/nukes-ctf
